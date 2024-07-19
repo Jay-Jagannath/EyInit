@@ -1,2 +1,3 @@
 # EyInit
-This is my repo created post joining EY
+This is my repo created post joining EY....
+I hope , I will maintain this repo for fuy=ture use for my debvelopment.
